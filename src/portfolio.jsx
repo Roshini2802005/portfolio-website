@@ -33,7 +33,7 @@ const skills = [
 ];
 
 export default function Portfolio() {
-  const resumeLink = "Roshini swaminathan resume pdf.pdf"; // replace with your resume URL (PDF)
+  const resumeLink = "Roshini s pdf.pdf"; // replace with your resume URL (PDF)
   const email = "roshiniswaminathan2@gmail.com"; // replace with your email
 
   return (
